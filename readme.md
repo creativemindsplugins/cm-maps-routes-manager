@@ -7,13 +7,13 @@
 
 ## Introduction
 
-[Product Page](https://www.cminds.com/wordpress-plugins-library/maps-routes-manager-plugin-for-wordpress-by-creativeminds/) | [Video](https://vimeo.com/144472757)  | [Demo](http://www.knowledgetrail.com/) | [User Guide](https://www.cminds.com/wordpress-plugins-knowledge-base-and-documentation/?hscat=534-cm-maps-route-manager) | [AddOn](https://www.cminds.com/wordpress-plugins-library/?showfilter=No&tags=RMBND) | [Additional CM Plugins](https://www.cminds.com/wordpress-plugins-library) 
+[Product Page](https://www.cminds.com/wordpress-plugins-library/maps-routes-manager-plugin-for-wordpress-by-creativeminds/) | [Video](https://vimeo.com/144472757)  | [Demo](http://www.knowledgetrail.com/) | [User Guide](https://creativeminds.helpscoutdocs.com/category/534-routes-manager-cmmrm) | [AddOns](https://www.cminds.com/wordpress-plugins-library/?showfilter=No&tags=RMBND)
 
 **Allow users to draw custom routes and generate a catalog of map routes and trails with points of interest on a Wordpress site using Google Maps integration.**
 
 Our plugin - Google Maps Routes Manager - offers a creative platform for your site visitors to sketch out their own routes and compile a visual folder of pathways or landmarks. Google Maps Integration helps enrich each location with visuals, narratives, interactive markers that include environmental details like elevation or temperature.
 
-This plugin helps users have the freedom to determine flow of their routes, personalize their journey with local touches, tag locations, and tailor the maps and points of interest to their liking within WordPress. It supports a variety of travel modes, including foot, car, motorbike, and bike, enhancing the site visitors experience. Additionally, it facilitates the import and export of map routes for easy mobile navigation and intelligently calculates the most efficient route direction.
+This plugin helps users have the freedom to determine the flow of their routes, personalize their journey with local touches, tag locations, and tailor the maps and points of interest to their liking within WordPress. It supports a variety of travel modes, including walk, car and bike, enhancing the site visitors experience. Additionally, it facilitates the import and export of map routes for easy mobile navigation and intelligently calculates the most efficient route direction.
 
 ## Installation
 
